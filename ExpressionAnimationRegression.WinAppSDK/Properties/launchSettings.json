@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ExpressionAnimationRegression (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ExpressionAnimationRegression (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
